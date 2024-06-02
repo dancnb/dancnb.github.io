@@ -17,7 +17,16 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-dark"
+# palette = "base16-dark"
+# palette = "dracula"
+# palette = "gruvbox-light"
+# palette = "gruvbox-dark"
+# palette = "solarized-dark"
+# palette = "solarized-light"
+# palette = "tender"
+# palette = "tokyo-night-dark"
+palette = "tokyo-night-light"
+# palette = "windows-95-light"
 
 # # Sidebar: about/bio
 # [params.about]

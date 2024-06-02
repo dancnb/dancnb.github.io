@@ -7,11 +7,7 @@ toc = true
 draft = false
 +++
 
-<!-- ## SUMMARY
-
-Software engineer with experience designing and building software solutions covering several aspects,
-such as database management, REST API development, 3rd party API integrations, web apps, logging,
-monitoring, etc.. -->
+<img src="/pozamea.png" alt="" width="200"/>
 
 ## PROFESSIONAL EXPERIENCE
 
