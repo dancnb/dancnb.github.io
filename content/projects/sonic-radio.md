@@ -38,25 +38,28 @@ After the installation, the command to run the application:
 │↓/j              |                            down |
 |g/home           |                     go to start |
 |G/end            |                       go to end |
-|p/enter          |                   play selected |
-|space            |                      play/pause |
+|enter            |                   play selected |
+|space            |                    pause/resume |
 |f                |              toggle as favorite |
-|i                |   station info(not implemented) |
-|s                |    open search(not implemented) |
+|i                |                    station info |
+|d                |                  delete station |
+|p/shift+p        |           paste deleted station |
+|s                |                     open search |
 |/                |                  filter results |
 |esc              |               go to now playing |
-|1                |             go to favorites tab |
-|2                |       go to station browser tab |
+|#                |            go to station number |
 |←/h/shift+tab    |                  go to prev tab |
 |→/l/tab          |                  go to next tab |
+|-/<              |                        volume - |
+|+/>              |                        volume + |
 |?                |                     toggle help |
 |q                |                            quit |
 
 ## TODO
 
-* [ ] Search stations section
-* [ ] Display rich station information
-* [ ] Configuration section
+- [x] Search stations section
+- [x] Display rich station information
+- [ ] Configuration section
 
 ## License
 
